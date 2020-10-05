@@ -15,4 +15,4 @@
 
 I strongly believe that one should not limit oneself. We should remember that we can achieve everything we believe. In the Nationwide lockdown, my urge for constant learning leads me to the field of Machine Learning. I developed my interest and skills by learning various ML algorithms and understanding the Mathematics behind it. Further, upgraded my knowledge in Neural Networks by completing Coursera’s Deep Learning Specialization.
 
-Spending several months into learning Machine Learning and Deep Learning, practising firmly on ML/DL problems, Now I am looking forward to the job opportunity in this field so I can enhance my experience by utilising my knowledge of this field. 
+Spending several months into learning Machine Learning & Deep Learning, and practising firmly on ML/DL problems, Now I am looking forward to the job opportunity in this field so I can enhance my experience by utilising my knowledge of this field. 
