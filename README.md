@@ -1,6 +1,6 @@
 # Hi there 👋
 
-[![HitCount](http://hits.dwyl.com/ajaychouhan-nitbhopal/ajaychouhan-nitbhopal.svg)](http://hits.dwyl.com/ajaychouhan-nitbhopal/ajaychouhan-nitbhopal)
+![Hits](https://hitcounter.pythonanywhere.com/count/tag.svg?url=https%3A%2F%2Fgithub.com%2Fajaychouhan-nitbhopal)
 
 ##### “Ask yourself: If what you're working on succeeds beyond your wildest dreams, would you have significantly helped other people? If not, then keep searching for something else to work on. Otherwise you're not living up to your full potential.” ― Prof. Andrew Ng
 <!--
