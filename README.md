@@ -15,6 +15,6 @@
 - 📫 How to reach me: [Ajay's Linkedin](https://www.linkedin.com/in/ajay-chouhan-22594a170/)
 - ⚡ Fun fact: All of my social media usernames is @VATANUKOOLAK which is Hindi name for Air-Conditiner (A.C., which are also my initials)
 
-I strongly believe that one should not limit oneself. We should remember that we can achieve everything we believe. In the Nationwide lockdown, my urge for constant learning leads me to the field of Machine Learning. I developed my interest and skills by learning various ML algorithms and understanding the Mathematics behind it. Further, upgraded my knowledge in Neural Networks by completing Coursera’s Deep Learning Specialization.
+I strongly believe that one should not limit oneself. We should remember that we can achieve everything we believe. In the Nationwide lockdown, my urge for constant learning leads me to the field of Machine Learning. I developed my interest and skills by learning various ML algorithms and understanding the Mathematics behind it. Further, upgraded my knowledge in Neural Networks by completing Coursera’s Deep Learning Specialization. Now I have completed IBM AI engineering Professional Certification too.
 
 Spending several months into learning Machine Learning & Deep Learning, and practising firmly on ML/DL problems, Now I am looking forward to the job opportunity in this field so I can enhance my experience by utilising my knowledge of this field. 
