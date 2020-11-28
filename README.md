@@ -8,7 +8,7 @@
 -->
 #### My life gist :
 - 🔭 I’m currently working on Deep Learning Algorithms to increase my skills in this field.
-- 🌱 I’m currently learning more about Computer Vision with OpenCV.
+- 🌱 I’m currently learning and practicing PyTorch and TensorFlow Libraries.
 - 👯 I’m looking to collaborate on any good DL project related to Computer Vision.
 - 🤔 I’m looking for help with building my career in the field of Machine Learning.
 - 💬 Ask me about Machine Learning, Deep Learning and Industrial Design.
